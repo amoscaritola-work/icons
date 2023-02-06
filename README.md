@@ -1,1 +1,5 @@
-# icons
+# Icons
+
+[Icons](https://github.com/amoscaritola-work/icons)
+
+<img src="png/1024-GoogleDrive.png" alt="1024-GoogleDrive" width="50"> <img src="png/1024-adobeAcrobat.png" alt="1024-adobeAcrobat" width="50"> <img src="png/1024-bigSur.png" alt="1024-bigSur" width="50"> <img src="png/1024-chrome.png" alt="1024-chrome" width="50"> <img src="png/1024-docker.png" alt="1024-docker" width="50"> <img src="png/1024-hmh.png" alt="1024-hmh" width="50"> <img src="png/1024-hp.png" alt="1024-hp" width="50"> <img src="png/1024-kutaPreAlgebra.png" alt="1024-kutaPreAlgebra" width="50"> <img src="png/1024-kyocera.png" alt="1024-kyocera" width="50"> <img src="png/1024-mobotix.png" alt="1024-mobotix" width="50"> <img src="png/1024-monterey.png" alt="1024-monterey" width="50"> <img src="png/1024-npsTech.png" alt="1024-npsTech" width="50"> <img src="png/1024-obs.png" alt="1024-obs" width="50"> <img src="png/1024-office.png" alt="1024-office" width="50"> <img src="png/1024-papercut.png" alt="1024-papercut" width="50"> <img src="png/1024-rosetta2.png" alt="1024-rosetta2" width="50"> <img src="png/1024-ventura.png" alt="1024-ventura" width="50"> <img src="png/1024-vlc.png" alt="1024-vlc" width="50"> <img src="png/1024-zoom.png" alt="1024-zoom" width="50"> <img src="png/512-iiq.png" alt="512-iiq" width="50">
